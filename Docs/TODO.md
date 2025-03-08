@@ -1,7 +1,7 @@
 TO Test:
 
 TODO:
-* killing Rattus
+* killing Rattus - start combat on hit?
   * pre & during quest
   * pre rent
   * rent
