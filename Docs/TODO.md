@@ -1,13 +1,15 @@
 TO Test:
 * homebrew potion
-
-TODO:
+* rumours
+  * OE, Dondril
+* illegal to rest
+* homebrew timer
 * killing Rattus - start combat on hit?
   * pre & during quest
   * pre rent
   * rent
-* homebrew timer
-* illegal to rest
+
+TODO:
 * release prep
   * take screenshots: exterior, dist of Aeliana, room, Urtiso in hall, basement (catching Rattus)
     * create thumbnail
