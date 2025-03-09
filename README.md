@@ -5,6 +5,10 @@ Rent a cozy little apartment just outside Old Ebonheart!
 A mod for Tamriel Rebuilt, *Old Ebonheart Apartment* adds, well, an apartment that's available for the player.
 A quest is also tied to the homeowners to unlock the apartment.
 
+### Directions
+
+To get to the house, just head out of Old Ebonheart's main gate. It will be the house to your right.
+
 ## Requirements
 
 Official expansions:
