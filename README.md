@@ -1,9 +1,9 @@
 # Old Ebonheart Apartment
 
-Rent an apartment just outside Old Ebonheart.
+Rent a cozy little apartment just outside Old Ebonheart!
 
-A mod for Tamriel Rebuilt, *Old Ebonheart Apartment* adds, well, an apartment that's available for rent by
-the player. A quest is also tied to the homeowners.
+A mod for Tamriel Rebuilt, *Old Ebonheart Apartment* adds, well, an apartment that's available for the player.
+A quest is also tied to the homeowners to unlock the apartment.
 
 ## Requirements
 
