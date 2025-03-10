@@ -1,11 +1,10 @@
 TO Test:
-* release prep
-  * short desc
-  * full desc (quest, rattus, homebrew)
-  * directions (to house, vague for Aeliana)
-  * take screenshots: exterior, dist of Aeliana, room, Urtiso in hall, basement (catching Rattus)
-    * create thumbnail
-  * Readme
 
 TODO:
+  * pet rattus
+    * a series of random INFO (10-15)
+  * additional greetings for all
+    * Rattus: she looks around, paws at the ground, looks at PC
+    * Aeliana: morning varient for homebrew & rattus mentionings
+    * Urtiso: random chance morning/afternoon/eve
   

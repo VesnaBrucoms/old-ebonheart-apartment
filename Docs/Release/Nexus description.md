@@ -19,6 +19,10 @@ To get to the house, just head out of Old Ebonheart's main gate. It will be the 
 An alternative start to the quest is to head north from [spoiler]Dondril[/spoiler] and to keep an eye out
 for a conspicuous woman.
 
+## Content
+
+As a heads up, the two landladies are a married lesbian couple.
+
 ## Category/Tags
 
 Player homes
